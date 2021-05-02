@@ -1,0 +1,1 @@
+package home.certification.study.import_static.certification;
